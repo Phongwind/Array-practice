@@ -116,5 +116,11 @@ inventors.map ((name) => {
 
   })
 
+//print multiple 100
+console.log("Print out an array of every number multiplied by 100", multiplied100 = numbers.map(num=>num*100));
+
+//Sort all the inventors in alphabetical order, A-Z.
+console.log("Sort all the inventors in alphabetical order, A-Z",sortAZ=inventors.sort())
+
 
 
